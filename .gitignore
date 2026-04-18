@@ -1,0 +1,37 @@
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code
+.claude/
+
+# Build artifacts
+.pio/
+build/
+*.o
+*.elf
+*.bin
+*.hex
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Personal reports and templates
+*.docx
+*.pdf
+*.zip
+
+# Helper scripts (report generation)
+generate_*.py
+
+# Datasheets (copyrighted)
+数据手册/
+
+# Test / scratch directories
+test/
+test2/
